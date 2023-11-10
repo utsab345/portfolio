@@ -1,1 +1,2 @@
-Hello this is my first git practice session.
+Hello this is my first git practice session.First version updated.
+First updated version.
